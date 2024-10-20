@@ -1,4 +1,4 @@
-# Ork_slayer
+# Orc_slayer
 A project of a game made together with a friend of mine using Python and Pygame library.
 
 Project report in polish:
